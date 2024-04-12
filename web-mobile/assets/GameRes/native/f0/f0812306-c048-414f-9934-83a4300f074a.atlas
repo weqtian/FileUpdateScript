@@ -1,0 +1,104 @@
+
+Tom.png
+size: 788,741
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+上嘴巴
+  rotate: true
+  xy: 735, 294
+  size: 123, 36
+  orig: 757, 757
+  offset: 318, 375
+  index: -1
+双眼
+  rotate: false
+  xy: 397, 281
+  size: 336, 136
+  orig: 757, 757
+  offset: 213, 420
+  index: -1
+右眉
+  rotate: true
+  xy: 750, 605
+  size: 66, 27
+  orig: 757, 757
+  offset: 417, 544
+  index: -1
+右瞳孔
+  rotate: false
+  xy: 406, 5
+  size: 74, 74
+  orig: 757, 757
+  offset: 422, 435
+  index: -1
+右耳
+  rotate: true
+  xy: 210, 8
+  size: 148, 194
+  orig: 757, 757
+  offset: 454, 510
+  index: -1
+尾巴
+  rotate: true
+  xy: 587, 2
+  size: 277, 197
+  orig: 757, 757
+  offset: 386, 67
+  index: -1
+左眉
+  rotate: true
+  xy: 750, 537
+  size: 66, 27
+  orig: 757, 757
+  offset: 277, 542
+  index: -1
+左瞳孔
+  rotate: false
+  xy: 406, 81
+  size: 74, 75
+  orig: 757, 757
+  offset: 261, 435
+  index: -1
+左耳
+  rotate: true
+  xy: 2, 5
+  size: 151, 206
+  orig: 757, 757
+  offset: 149, 486
+  index: -1
+张嘴巴
+  rotate: true
+  xy: 750, 673
+  size: 66, 36
+  orig: 757, 757
+  offset: 346, 359
+  index: -1
+投影
+  rotate: false
+  xy: 2, 158
+  size: 583, 93
+  orig: 757, 757
+  offset: 87, 17
+  index: -1
+猫粮碎
+  rotate: false
+  xy: 397, 256
+  size: 18, 23
+  orig: 757, 757
+  offset: 412, 318
+  index: -1
+脸
+  rotate: true
+  xy: 2, 253
+  size: 486, 393
+  orig: 757, 757
+  offset: 134, 290
+  index: -1
+身体
+  rotate: true
+  xy: 397, 419
+  size: 320, 351
+  orig: 757, 757
+  offset: 215, 28
+  index: -1

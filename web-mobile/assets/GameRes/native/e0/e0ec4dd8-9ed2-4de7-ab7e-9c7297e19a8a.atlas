@@ -1,0 +1,13 @@
+
+倒猫粮.png
+size: 304,325
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+猫粮袋
+  rotate: false
+  xy: 2, 2
+  size: 300, 321
+  orig: 302, 323
+  offset: 1, 1
+  index: -1
