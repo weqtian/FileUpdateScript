@@ -85,13 +85,9 @@ def compare_versions(project_name: str, version: list, new_version: list) -> dic
 
 async def generate_project_version_info():
     """ 生成多个项目的版本信息 """
-    wocute_h5 = '/web-mobile/src'
     wocute_insight = '/wocute-h5'
-    wocute_activity = '/web-mobile/cocos-js'
-    version_task = {
-        # 'wocute_h5': BASE_DIR + wocute_h5,
+    version_task = {  # 项目任务
         'wocute_insight': BASE_DIR + wocute_insight,
-        # 'wocute_activity': BASE_DIR + wocute_activity
     }
     all_project_version = []
     for item in version_task:
