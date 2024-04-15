@@ -3,973 +3,973 @@
         "name": "dist/favicon.ico",
         "size": 63373,
         "md5": "645d1874bdd1abc377bbab8b5b9a0cf3",
-        "url": "https://cdn.wocute.com/wocute_insightdist/favicon.ico",
+        "url": "https://cdn.wocute.com/dist/favicon.ico",
         "version": "1"
     },
     {
         "name": "dist/index.html",
         "size": 5601,
         "md5": "70f95b159735ab83e943f44806aa62b3",
-        "url": "https://cdn.wocute.com/wocute_insightdist/index.html",
+        "url": "https://cdn.wocute.com/dist/index.html",
         "version": "1"
     },
     {
         "name": "dist/.DS_Store",
         "size": 6148,
         "md5": "ba116ecf16e8b2e5af0aeb1b8223c408",
-        "url": "https://cdn.wocute.com/wocute_insightdist/.DS_Store",
+        "url": "https://cdn.wocute.com/dist/.DS_Store",
         "version": "1"
     },
     {
         "name": "dist/apple-app-site-association",
         "size": 209,
         "md5": "b26142d0c8722b686c7fd5ffbb79842e",
-        "url": "https://cdn.wocute.com/wocute_insightdist/apple-app-site-association",
+        "url": "https://cdn.wocute.com/dist/apple-app-site-association",
         "version": "1"
     },
     {
         "name": "dist/app-ads.txt",
         "size": 22386,
         "md5": "5151bb6687c4f3f1e55d5f1f638f7230",
-        "url": "https://cdn.wocute.com/wocute_insightdist/app-ads.txt",
+        "url": "https://cdn.wocute.com/dist/app-ads.txt",
         "version": "1"
     },
     {
         "name": "dist/manifest.json",
         "size": 35051,
         "md5": "48e8c0bb8281685e6d3622e4600e09a5",
-        "url": "https://cdn.wocute.com/wocute_insightdist/manifest.json",
+        "url": "https://cdn.wocute.com/dist/manifest.json",
         "version": "1"
     },
     {
         "name": "dist/robots.txt",
         "size": 21,
         "md5": "7244c04e74618e6d07829d4e3caedf91",
-        "url": "https://cdn.wocute.com/wocute_insightdist/robots.txt",
+        "url": "https://cdn.wocute.com/dist/robots.txt",
         "version": "1"
     },
     {
         "name": "dist/logo.svg",
         "size": 6809,
         "md5": "5417408767971cad7b768d8fa6c4a2ad",
-        "url": "https://cdn.wocute.com/wocute_insightdist/logo.svg",
+        "url": "https://cdn.wocute.com/dist/logo.svg",
         "version": "1"
     },
     {
         "name": "dist/static/.DS_Store",
         "size": 8196,
         "md5": "a6c9d742dfcb3c52c2519d7133cea090",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/.DS_Store",
+        "url": "https://cdn.wocute.com/dist/static/.DS_Store",
         "version": "1"
     },
     {
         "name": "dist/static/svg/logo-25aff7fd.svg",
         "size": 3003,
         "md5": "f19806cc9c7f13dd3c9063b2a18fc35b",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/svg/logo-25aff7fd.svg",
+        "url": "https://cdn.wocute.com/dist/static/svg/logo-25aff7fd.svg",
         "version": "1"
     },
     {
         "name": "dist/static/svg/not-sent-474db72f.svg",
         "size": 654,
         "md5": "4fa54d1e7b80ff261239eba26fbe3698",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/svg/not-sent-474db72f.svg",
+        "url": "https://cdn.wocute.com/dist/static/svg/not-sent-474db72f.svg",
         "version": "1"
     },
     {
         "name": "dist/static/css/index-f6ee5574.css",
         "size": 8695,
         "md5": "3d4986fc1896448965958982181e9207",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/css/index-f6ee5574.css",
+        "url": "https://cdn.wocute.com/dist/static/css/index-f6ee5574.css",
         "version": "1"
     },
     {
         "name": "dist/static/css/index-0dd7b512.css",
         "size": 2812,
         "md5": "507c382828381b12ef2552acd019bd85",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/css/index-0dd7b512.css",
+        "url": "https://cdn.wocute.com/dist/static/css/index-0dd7b512.css",
         "version": "1"
     },
     {
         "name": "dist/static/css/index-15839c8a.css",
         "size": 5373,
         "md5": "dbea1a25d81bac8668b031bff2bbe6ea",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/css/index-15839c8a.css",
+        "url": "https://cdn.wocute.com/dist/static/css/index-15839c8a.css",
         "version": "1"
     },
     {
         "name": "dist/static/css/index-bf5d9bc1.css",
         "size": 5373,
         "md5": "496c5aed9d15a915767fa51d681ce6bb",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/css/index-bf5d9bc1.css",
+        "url": "https://cdn.wocute.com/dist/static/css/index-bf5d9bc1.css",
         "version": "1"
     },
     {
         "name": "dist/static/css/index-0a3a394c.css",
         "size": 9117,
         "md5": "1b8641bb3a193fda2aa8c399330daddb",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/css/index-0a3a394c.css",
+        "url": "https://cdn.wocute.com/dist/static/css/index-0a3a394c.css",
         "version": "1"
     },
     {
         "name": "dist/static/css/index-b585308a.css",
         "size": 11219,
         "md5": "70d8303b642a540c2c8f26376033ba41",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/css/index-b585308a.css",
+        "url": "https://cdn.wocute.com/dist/static/css/index-b585308a.css",
         "version": "1"
     },
     {
         "name": "dist/static/css/index-2e9f6383.css",
         "size": 2812,
         "md5": "d75ceaad59dc5883a4c2a5d0be8d2dab",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/css/index-2e9f6383.css",
+        "url": "https://cdn.wocute.com/dist/static/css/index-2e9f6383.css",
         "version": "1"
     },
     {
         "name": "dist/static/css/index-c98f0988.css",
         "size": 2927,
         "md5": "ccd76441a2b3f2f8552e0d073abf8288",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/css/index-c98f0988.css",
+        "url": "https://cdn.wocute.com/dist/static/css/index-c98f0988.css",
         "version": "1"
     },
     {
         "name": "dist/static/css/index-89d05d51.css",
         "size": 4354,
         "md5": "accd0a81cddd593aef13dd2104fa60de",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/css/index-89d05d51.css",
+        "url": "https://cdn.wocute.com/dist/static/css/index-89d05d51.css",
         "version": "1"
     },
     {
         "name": "dist/static/css/index-1fa258f4.css",
         "size": 9187,
         "md5": "a6d4e9e20c3534e6095d976f72cda741",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/css/index-1fa258f4.css",
+        "url": "https://cdn.wocute.com/dist/static/css/index-1fa258f4.css",
         "version": "1"
     },
     {
         "name": "dist/static/css/index-773a63d6.css",
         "size": 5373,
         "md5": "0ef06bc202f28e4aab97c975fca4be94",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/css/index-773a63d6.css",
+        "url": "https://cdn.wocute.com/dist/static/css/index-773a63d6.css",
         "version": "1"
     },
     {
         "name": "dist/static/css/index-16b31530.css",
         "size": 5373,
         "md5": "8fc3c792d96b5051f23c6007cc9ee81e",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/css/index-16b31530.css",
+        "url": "https://cdn.wocute.com/dist/static/css/index-16b31530.css",
         "version": "1"
     },
     {
         "name": "dist/static/css/index-aef2d209.css",
         "size": 7925,
         "md5": "b5018c3f32562d7ea619f4597f6b1ee3",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/css/index-aef2d209.css",
+        "url": "https://cdn.wocute.com/dist/static/css/index-aef2d209.css",
         "version": "1"
     },
     {
         "name": "dist/static/css/index-7416c89d.css",
         "size": 4086,
         "md5": "7d85a02d475f4e80963e2389fe76e459",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/css/index-7416c89d.css",
+        "url": "https://cdn.wocute.com/dist/static/css/index-7416c89d.css",
         "version": "1"
     },
     {
         "name": "dist/static/css/index-b3a8596a.css",
         "size": 9159,
         "md5": "d3368f2d7f7a088d1c8bbf89a272c66b",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/css/index-b3a8596a.css",
+        "url": "https://cdn.wocute.com/dist/static/css/index-b3a8596a.css",
         "version": "1"
     },
     {
         "name": "dist/static/css/index-67001bfb.css",
         "size": 5386,
         "md5": "d646876d8adb97d4f234e26e89602b56",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/css/index-67001bfb.css",
+        "url": "https://cdn.wocute.com/dist/static/css/index-67001bfb.css",
         "version": "1"
     },
     {
         "name": "dist/static/css/index-de8d942b.css",
         "size": 2812,
         "md5": "57cac41b1fc88c83ac2a281bcd051125",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/css/index-de8d942b.css",
+        "url": "https://cdn.wocute.com/dist/static/css/index-de8d942b.css",
         "version": "1"
     },
     {
         "name": "dist/static/css/LangPlug-5606f5bd.css",
         "size": 2830,
         "md5": "140da1d7779e4fcc2120abf1d54b2221",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/css/LangPlug-5606f5bd.css",
+        "url": "https://cdn.wocute.com/dist/static/css/LangPlug-5606f5bd.css",
         "version": "1"
     },
     {
         "name": "dist/static/css/index-89b6afde.css",
         "size": 169225,
         "md5": "966da1a00ea6b1221f10f948797e0fb7",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/css/index-89b6afde.css",
+        "url": "https://cdn.wocute.com/dist/static/css/index-89b6afde.css",
         "version": "1"
     },
     {
         "name": "dist/static/css/index-d2da3a71.css",
         "size": 5262,
         "md5": "e79623f8d38a29a625b82a4441126e26",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/css/index-d2da3a71.css",
+        "url": "https://cdn.wocute.com/dist/static/css/index-d2da3a71.css",
         "version": "1"
     },
     {
         "name": "dist/static/css/index-83d9fc40.css",
         "size": 5373,
         "md5": "8523c7585e57f28d434a4d800c95702e",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/css/index-83d9fc40.css",
+        "url": "https://cdn.wocute.com/dist/static/css/index-83d9fc40.css",
         "version": "1"
     },
     {
         "name": "dist/static/css/index-cf52e2de.css",
         "size": 2804,
         "md5": "68f2f37836ecd93d2e66ba70acda969c",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/css/index-cf52e2de.css",
+        "url": "https://cdn.wocute.com/dist/static/css/index-cf52e2de.css",
         "version": "1"
     },
     {
         "name": "dist/static/css/index-58fc7766.css",
         "size": 5373,
         "md5": "6a4024851782a0ae5334ba1ca4b96aa3",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/css/index-58fc7766.css",
+        "url": "https://cdn.wocute.com/dist/static/css/index-58fc7766.css",
         "version": "1"
     },
     {
         "name": "dist/static/css/index-58c32834.css",
         "size": 5373,
         "md5": "91c10367e8e6a65b50d6492895a9fc87",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/css/index-58c32834.css",
+        "url": "https://cdn.wocute.com/dist/static/css/index-58c32834.css",
         "version": "1"
     },
     {
         "name": "dist/static/css/index-76e259c3.css",
         "size": 18956,
         "md5": "d4a53fa93061b888ae7349e3d6c46382",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/css/index-76e259c3.css",
+        "url": "https://cdn.wocute.com/dist/static/css/index-76e259c3.css",
         "version": "1"
     },
     {
         "name": "dist/static/css/index-1e20bc4e.css",
         "size": 5373,
         "md5": "600c3493fb182900c720f57bbf915ee4",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/css/index-1e20bc4e.css",
+        "url": "https://cdn.wocute.com/dist/static/css/index-1e20bc4e.css",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-legacy-078af8aa.js",
         "size": 12572,
         "md5": "77fa577264f50059ca708ec0cf08bdc0",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-legacy-078af8aa.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-legacy-078af8aa.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-ff8e04d0.js",
         "size": 5167,
         "md5": "8b2311cc52d494241481389f895a47c5",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-ff8e04d0.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-ff8e04d0.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-legacy-1fcf223c.js",
         "size": 12071,
         "md5": "64cdefeac4921d053f60f8c96becbb4b",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-legacy-1fcf223c.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-legacy-1fcf223c.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-legacy-9c103b1c.js",
         "size": 34144,
         "md5": "0af1788e4312cd1fd5e75a874d44c231",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-legacy-9c103b1c.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-legacy-9c103b1c.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-c621ade9.js",
         "size": 12350,
         "md5": "221481548d72511f685817f74e650644",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-c621ade9.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-c621ade9.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/LangPlug-legacy-90ab2cc9.js",
         "size": 46015,
         "md5": "70f4d09087b82ae8d06bbdaad6e872f0",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/LangPlug-legacy-90ab2cc9.js",
+        "url": "https://cdn.wocute.com/dist/static/js/LangPlug-legacy-90ab2cc9.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-ee55951f.js",
         "size": 678075,
         "md5": "7623dfc23c20fc3a8b805abc8971cf57",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-ee55951f.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-ee55951f.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/Time-legacy-837db6ab.js",
         "size": 8519,
         "md5": "5bb18a6926db8e5fe0e3c69a1c9ac418",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/Time-legacy-837db6ab.js",
+        "url": "https://cdn.wocute.com/dist/static/js/Time-legacy-837db6ab.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-legacy-e7b654d4.js",
         "size": 28710,
         "md5": "fec9882b652b9a287a4d55597d4d2ca1",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-legacy-e7b654d4.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-legacy-e7b654d4.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-7d9ea1b3.js",
         "size": 2358,
         "md5": "b020fb0fc0763d730b28883a642f0ec2",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-7d9ea1b3.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-7d9ea1b3.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-legacy-6b1faf52.js",
         "size": 17192,
         "md5": "b18de864d737b4d855c58d9bcb00168e",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-legacy-6b1faf52.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-legacy-6b1faf52.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-b162742b.js",
         "size": 6006,
         "md5": "97fa2d629ed9e61ccbd483f4b90196c1",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-b162742b.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-b162742b.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/LangPlug-4fa84100.js",
         "size": 39266,
         "md5": "ae4a71ac16b08252392bc7d0b5370812",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/LangPlug-4fa84100.js",
+        "url": "https://cdn.wocute.com/dist/static/js/LangPlug-4fa84100.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/localDB-78d6fe44.js",
         "size": 266,
         "md5": "7080832dfe2b9ac4a78cb159cf742291",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/localDB-78d6fe44.js",
+        "url": "https://cdn.wocute.com/dist/static/js/localDB-78d6fe44.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-321a5d42.js",
         "size": 14655,
         "md5": "92e8da5723867319fa6e041928e1ca3c",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-321a5d42.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-321a5d42.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-b7871647.js",
         "size": 2583,
         "md5": "657430cff57872d7e4461c8e0f4da483",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-b7871647.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-b7871647.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/Time-d7827038.js",
         "size": 8044,
         "md5": "bace84b6b3bcf35181408975a4536fce",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/Time-d7827038.js",
+        "url": "https://cdn.wocute.com/dist/static/js/Time-d7827038.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-legacy-dca9df1a.js",
         "size": 3662,
         "md5": "94b801f2f162c542d2e18ce8f05841ff",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-legacy-dca9df1a.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-legacy-dca9df1a.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/localDB-legacy-99dd7ab2.js",
         "size": 1257,
         "md5": "6ea28573b436d08b7b3b80f50bda4aea",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/localDB-legacy-99dd7ab2.js",
+        "url": "https://cdn.wocute.com/dist/static/js/localDB-legacy-99dd7ab2.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-07d40873.js",
         "size": 7147,
         "md5": "68dbc617637f02dd467c6f81192a5f7b",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-07d40873.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-07d40873.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-legacy-5f068d30.js",
         "size": 17920,
         "md5": "9faff6ab4543668d1cfc5d043617071f",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-legacy-5f068d30.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-legacy-5f068d30.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-legacy-30cf4f29.js",
         "size": 3777,
         "md5": "9ac3532bf4b1a3eee4c8290415d9f19c",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-legacy-30cf4f29.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-legacy-30cf4f29.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-legacy-1989b10d.js",
         "size": 7017,
         "md5": "e912286b9d4ce954adf4c8aa923694e2",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-legacy-1989b10d.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-legacy-1989b10d.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-5ad1d144.js",
         "size": 9998,
         "md5": "02e3fe2dcfbe50f5fb6b794811795480",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-5ad1d144.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-5ad1d144.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-552e71ff.js",
         "size": 640,
         "md5": "3c33714bfb388752d8411de67231377a",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-552e71ff.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-552e71ff.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-11d8e14a.js",
         "size": 4780,
         "md5": "efd87ae35a5a8eb9dfcc48a302c6386d",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-11d8e14a.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-11d8e14a.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-legacy-0b355f0a.js",
         "size": 8183,
         "md5": "49a0cc5bc6ac1006439e95af6b69d881",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-legacy-0b355f0a.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-legacy-0b355f0a.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/lang-2101bfb9.js",
         "size": 6460,
         "md5": "ea4276eecb79ab7b6158d32222ead970",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/lang-2101bfb9.js",
+        "url": "https://cdn.wocute.com/dist/static/js/lang-2101bfb9.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-e8710daf.js",
         "size": 12856,
         "md5": "dfef2546d076860fb6b4fb3deb0174d8",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-e8710daf.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-e8710daf.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-81fac17e.js",
         "size": 3648,
         "md5": "d1df9fc011fdfedc6261a43765b8caa9",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-81fac17e.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-81fac17e.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-816fc391.js",
         "size": 8040,
         "md5": "a8ff53887a16ec316b7abf2f929fa3e0",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-816fc391.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-816fc391.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-456f307c.js",
         "size": 1895,
         "md5": "de348091709b4954c5f83d9ce6c57387",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-456f307c.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-456f307c.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-8780f1f6.js",
         "size": 7002,
         "md5": "95d1eaf8862fbb57709129906835d7de",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-8780f1f6.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-8780f1f6.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-legacy-b63c48e9.js",
         "size": 7955,
         "md5": "04e0178f66b17702b026c8e44fd80c8c",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-legacy-b63c48e9.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-legacy-b63c48e9.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-9821769a.js",
         "size": 2300,
         "md5": "7bcb36e956b84baf0112b774c72ed217",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-9821769a.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-9821769a.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-legacy-739cfb0c.js",
         "size": 10277,
         "md5": "b535a1b3b53ec66276076bbebbac08bc",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-legacy-739cfb0c.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-legacy-739cfb0c.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-59dec912.js",
         "size": 4707,
         "md5": "98a2f6efe4789f8034b0eacd9dbbed46",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-59dec912.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-59dec912.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-81d217dd.js",
         "size": 6417,
         "md5": "1e0fcd029211c95fb4ad4d92fdf53c96",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-81d217dd.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-81d217dd.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/clean-btn-legacy-f0164a11.js",
         "size": 202,
         "md5": "82fd226f61289e12268178ac69f9d94e",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/clean-btn-legacy-f0164a11.js",
+        "url": "https://cdn.wocute.com/dist/static/js/clean-btn-legacy-f0164a11.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-legacy-66cc16aa.js",
         "size": 7422,
         "md5": "b3f3c7783b1693c2c26b78735e5268cd",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-legacy-66cc16aa.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-legacy-66cc16aa.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-legacy-2f643c29.js",
         "size": 9395,
         "md5": "6b8ed66f66821ff4f4d34f2906e0faa4",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-legacy-2f643c29.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-legacy-2f643c29.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-legacy-666e8745.js",
         "size": 13610,
         "md5": "adc8b04c11d635310b29a3d6fa43ce05",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-legacy-666e8745.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-legacy-666e8745.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/use-tab-status-53cd34df.js",
         "size": 98,
         "md5": "b77df2aa037fd172ec15a3193ce11589",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/use-tab-status-53cd34df.js",
+        "url": "https://cdn.wocute.com/dist/static/js/use-tab-status-53cd34df.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-legacy-e31a0f21.js",
         "size": 12273,
         "md5": "940af93b29b61f4eadd69593ee44968f",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-legacy-e31a0f21.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-legacy-e31a0f21.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/polyfills-d200d3f4.js",
         "size": 11985,
         "md5": "57240a66d1e099d9f3ed6a4645b4e7cf",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/polyfills-d200d3f4.js",
+        "url": "https://cdn.wocute.com/dist/static/js/polyfills-d200d3f4.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-legacy-b9269463.js",
         "size": 3192,
         "md5": "5a85b205ef874a2bb79e8f8c0a286da9",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-legacy-b9269463.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-legacy-b9269463.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/polyfills-legacy-c87f5eb9.js",
         "size": 51195,
         "md5": "511017ed2917cc93f67d1afeb1d7c5f5",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/polyfills-legacy-c87f5eb9.js",
+        "url": "https://cdn.wocute.com/dist/static/js/polyfills-legacy-c87f5eb9.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-legacy-bddd9b23.js",
         "size": 13812,
         "md5": "ed2903517c2c3302362c3484564df678",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-legacy-bddd9b23.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-legacy-bddd9b23.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-d0fd4140.js",
         "size": 611,
         "md5": "0d3e235a1651388611c3b22d0137f51e",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-d0fd4140.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-d0fd4140.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-legacy-c207f3e0.js",
         "size": 13958,
         "md5": "361305e0a8b88167f44a2189ffa30439",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-legacy-c207f3e0.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-legacy-c207f3e0.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-3ad53b22.js",
         "size": 4139,
         "md5": "688740d088c742c44af3a1c5699ea88d",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-3ad53b22.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-3ad53b22.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-9826956b.js",
         "size": 8389,
         "md5": "b13cc5e148299ce994764f3d2c2ea509",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-9826956b.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-9826956b.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-legacy-07e58ef2.js",
         "size": 902130,
         "md5": "79b9fbe1cfc261944035a3992ea5c4ac",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-legacy-07e58ef2.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-legacy-07e58ef2.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-legacy-3e86a12e.js",
         "size": 13752,
         "md5": "e7ea71c4f1800683b99b56d5e8beadc7",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-legacy-3e86a12e.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-legacy-3e86a12e.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-legacy-1be5c5fa.js",
         "size": 12717,
         "md5": "2391c941793aace316913f6532128d85",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-legacy-1be5c5fa.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-legacy-1be5c5fa.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-7f7c7712.js",
         "size": 6501,
         "md5": "1fa63bfaf6200a0275cc65b00a5c069f",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-7f7c7712.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-7f7c7712.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-legacy-2c9b9e61.js",
         "size": 8200,
         "md5": "9b223d49f5ce900db8a290dede487900",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-legacy-2c9b9e61.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-legacy-2c9b9e61.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-legacy-c158f641.js",
         "size": 11562,
         "md5": "0d68429c38178662b203e0648d0fb991",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-legacy-c158f641.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-legacy-c158f641.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-dfd66168.js",
         "size": 3683,
         "md5": "767ac68f4d821a728e55371a503fc03a",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-dfd66168.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-dfd66168.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-1ab0b2a6.js",
         "size": 605,
         "md5": "2022b1d801149928ae192419fb28f2d4",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-1ab0b2a6.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-1ab0b2a6.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-legacy-7b2c3817.js",
         "size": 20299,
         "md5": "07eea4fb4217cffdcf8b317acea76282",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-legacy-7b2c3817.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-legacy-7b2c3817.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/lang-legacy-6bd2169b.js",
         "size": 8227,
         "md5": "9307124e6bebb10eae71d0afb7ac2627",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/lang-legacy-6bd2169b.js",
+        "url": "https://cdn.wocute.com/dist/static/js/lang-legacy-6bd2169b.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-18ad2dec.js",
         "size": 14158,
         "md5": "6c9b7a528ed4d746f947ea083e62ff1b",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-18ad2dec.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-18ad2dec.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/clean-btn-0307741c.js",
         "size": 144,
         "md5": "1018b138dc9868e8f2287b69f03a1916",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/clean-btn-0307741c.js",
+        "url": "https://cdn.wocute.com/dist/static/js/clean-btn-0307741c.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-6cae7138.js",
         "size": 8584,
         "md5": "824ae2456468775c547387c7e0c52668",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-6cae7138.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-6cae7138.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/resources-6ac23f61.js",
         "size": 311,
         "md5": "a6699a1eb7810415c36a70326964f013",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/resources-6ac23f61.js",
+        "url": "https://cdn.wocute.com/dist/static/js/resources-6ac23f61.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-6efb8d9b.js",
         "size": 8237,
         "md5": "562ba143d84830dfab99dde8d060fcef",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-6efb8d9b.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-6efb8d9b.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/resources-legacy-86092c8f.js",
         "size": 452,
         "md5": "56f719939d7d3cda68b9d2798a390779",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/resources-legacy-86092c8f.js",
+        "url": "https://cdn.wocute.com/dist/static/js/resources-legacy-86092c8f.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-legacy-09e21e75.js",
         "size": 26377,
         "md5": "2a0df7988d78e5cf32bd56ee5827f7b5",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-legacy-09e21e75.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-legacy-09e21e75.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-legacy-41020c3d.js",
         "size": 7758,
         "md5": "d9a0621946298bcd56b6728870abe9fd",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-legacy-41020c3d.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-legacy-41020c3d.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/index-legacy-0fe3ef42.js",
         "size": 735,
         "md5": "91fd89b96378596c8131a34605e11201",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/index-legacy-0fe3ef42.js",
+        "url": "https://cdn.wocute.com/dist/static/js/index-legacy-0fe3ef42.js",
         "version": "1"
     },
     {
         "name": "dist/static/js/use-tab-status-legacy-9454d68a.js",
         "size": 203,
         "md5": "402fbbc9e7ae5d43fe71df262947c898",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/js/use-tab-status-legacy-9454d68a.js",
+        "url": "https://cdn.wocute.com/dist/static/js/use-tab-status-legacy-9454d68a.js",
         "version": "1"
     },
     {
         "name": "dist/static/webp/loading-b458dc27.webp",
         "size": 229178,
         "md5": "0c73f84d9763ebcac3984837ef8b999c",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/webp/loading-b458dc27.webp",
+        "url": "https://cdn.wocute.com/dist/static/webp/loading-b458dc27.webp",
         "version": "1"
     },
     {
         "name": "dist/static/png/banner_en-128fff2b.png",
         "size": 498799,
         "md5": "f9a3f32dc261e4018b5497b9b41285f4",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/png/banner_en-128fff2b.png",
+        "url": "https://cdn.wocute.com/dist/static/png/banner_en-128fff2b.png",
         "version": "1"
     },
     {
         "name": "dist/static/png/vip-badge-06bc35b1.png",
         "size": 902,
         "md5": "4ed85f0b6405875911e16786de075e4f",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/png/vip-badge-06bc35b1.png",
+        "url": "https://cdn.wocute.com/dist/static/png/vip-badge-06bc35b1.png",
         "version": "1"
     },
     {
         "name": "dist/static/png/user-8d7f1f5c.png",
         "size": 559,
         "md5": "c9db3d2c6396d131a1d2b91774dbb197",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/png/user-8d7f1f5c.png",
+        "url": "https://cdn.wocute.com/dist/static/png/user-8d7f1f5c.png",
         "version": "1"
     },
     {
         "name": "dist/static/png/empty-state-7aec3878.png",
         "size": 4441,
         "md5": "c8c29a1aa6421eeaf89da1c241b53aac",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/png/empty-state-7aec3878.png",
+        "url": "https://cdn.wocute.com/dist/static/png/empty-state-7aec3878.png",
         "version": "1"
     },
     {
         "name": "dist/static/png/text-black-horizontal-fac80c46.png",
         "size": 12057,
         "md5": "0b14f4d6cfc604d18820706f51e2a89b",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/png/text-black-horizontal-fac80c46.png",
+        "url": "https://cdn.wocute.com/dist/static/png/text-black-horizontal-fac80c46.png",
         "version": "1"
     },
     {
         "name": "dist/static/png/bright-stars-aabfcffa.png",
         "size": 770,
         "md5": "349b65949c312cc8135845377faa8978",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/png/bright-stars-aabfcffa.png",
+        "url": "https://cdn.wocute.com/dist/static/png/bright-stars-aabfcffa.png",
         "version": "1"
     },
     {
         "name": "dist/static/png/clean-btn-655dbe01.png",
         "size": 692,
         "md5": "fe9709302969bc4755b2f62fe420f4e5",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/png/clean-btn-655dbe01.png",
+        "url": "https://cdn.wocute.com/dist/static/png/clean-btn-655dbe01.png",
         "version": "1"
     },
     {
         "name": "dist/static/png/comment-empty-b41db195.png",
         "size": 4078,
         "md5": "b11c2419b490527053715728b3e3c811",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/png/comment-empty-b41db195.png",
+        "url": "https://cdn.wocute.com/dist/static/png/comment-empty-b41db195.png",
         "version": "1"
     },
     {
         "name": "dist/static/png/default-wocute-avatar-official-b0adcba4.png",
         "size": 5455,
         "md5": "eb048b23106328e56259ffb08bebbb4b",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/png/default-wocute-avatar-official-b0adcba4.png",
+        "url": "https://cdn.wocute.com/dist/static/png/default-wocute-avatar-official-b0adcba4.png",
         "version": "1"
     },
     {
         "name": "dist/static/png/search-grey-c84cb62d.png",
         "size": 633,
         "md5": "d4228809a31a023963b9572b02ce4475",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/png/search-grey-c84cb62d.png",
+        "url": "https://cdn.wocute.com/dist/static/png/search-grey-c84cb62d.png",
         "version": "1"
     },
     {
         "name": "dist/static/png/comment-926e10ce.png",
         "size": 738,
         "md5": "a76a75cbbc0ceac46b53d207bf2d7a28",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/png/comment-926e10ce.png",
+        "url": "https://cdn.wocute.com/dist/static/png/comment-926e10ce.png",
         "version": "1"
     },
     {
         "name": "dist/static/png/text-black-b87142d9.png",
         "size": 18133,
         "md5": "f58fbbfa650f3690cf41b948e17d2172",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/png/text-black-b87142d9.png",
+        "url": "https://cdn.wocute.com/dist/static/png/text-black-b87142d9.png",
         "version": "1"
     },
     {
         "name": "dist/static/png/hollow-dc82590d.png",
         "size": 551,
         "md5": "01ab3afec07d530e417af27f8582ad03",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/png/hollow-dc82590d.png",
+        "url": "https://cdn.wocute.com/dist/static/png/hollow-dc82590d.png",
         "version": "1"
     },
     {
         "name": "dist/static/png/default-stars-515f2ef6.png",
         "size": 753,
         "md5": "eb0c07ae598f16579b8d13407747856a",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/png/default-stars-515f2ef6.png",
+        "url": "https://cdn.wocute.com/dist/static/png/default-stars-515f2ef6.png",
         "version": "1"
     },
     {
         "name": "dist/static/png/banner_ar-5f3f6416.png",
         "size": 271664,
         "md5": "917e9fda0d5481b7ffe3bd885f16da2c",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/png/banner_ar-5f3f6416.png",
+        "url": "https://cdn.wocute.com/dist/static/png/banner_ar-5f3f6416.png",
         "version": "1"
     },
     {
         "name": "dist/static/png/music-a9a62b13.png",
         "size": 708,
         "md5": "50484cab2742e9a8a2926090b99e6a13",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/png/music-a9a62b13.png",
+        "url": "https://cdn.wocute.com/dist/static/png/music-a9a62b13.png",
         "version": "1"
     },
     {
         "name": "dist/static/png/icon-upload-082f127a.png",
         "size": 21669,
         "md5": "df3d6cabce381b0f28865fe55ac504dd",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/png/icon-upload-082f127a.png",
+        "url": "https://cdn.wocute.com/dist/static/png/icon-upload-082f127a.png",
         "version": "1"
     },
     {
         "name": "dist/static/png/share-3de72a9e.png",
         "size": 639,
         "md5": "3ae024a8f7b76a99ede272d54d55e04c",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/png/share-3de72a9e.png",
+        "url": "https://cdn.wocute.com/dist/static/png/share-3de72a9e.png",
         "version": "1"
     },
     {
         "name": "dist/static/png/banner_fr-0897ee3f.png",
         "size": 347454,
         "md5": "725295b79654732aeaeeb63d9bcbd10a",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/png/banner_fr-0897ee3f.png",
+        "url": "https://cdn.wocute.com/dist/static/png/banner_fr-0897ee3f.png",
         "version": "1"
     },
     {
         "name": "dist/static/png/default-wocute-avatar-fe855069.png",
         "size": 8215,
         "md5": "ce26043f4c7956f81d8931543e7159ca",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/png/default-wocute-avatar-fe855069.png",
+        "url": "https://cdn.wocute.com/dist/static/png/default-wocute-avatar-fe855069.png",
         "version": "1"
     },
     {
         "name": "dist/static/png/search-45d71803.png",
         "size": 742,
         "md5": "0f53c3478426b2878a95ee533905edef",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/png/search-45d71803.png",
+        "url": "https://cdn.wocute.com/dist/static/png/search-45d71803.png",
         "version": "1"
     },
     {
         "name": "dist/static/png/guide-mask-42e815c5.png",
         "size": 67793,
         "md5": "8c4ed5510805ff41313397f456a8bf0a",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/png/guide-mask-42e815c5.png",
+        "url": "https://cdn.wocute.com/dist/static/png/guide-mask-42e815c5.png",
         "version": "1"
     },
     {
         "name": "dist/static/jpg/insight09073870ramadan-0723a2d3.jpg",
         "size": 33568,
         "md5": "e0238ad00326adf58b2ba61ebdf02e6c",
-        "url": "https://cdn.wocute.com/wocute_insightdist/static/jpg/insight09073870ramadan-0723a2d3.jpg",
+        "url": "https://cdn.wocute.com/dist/static/jpg/insight09073870ramadan-0723a2d3.jpg",
         "version": "1"
     },
     {
         "name": "dist/assets/.DS_Store",
         "size": 6148,
         "md5": "f4ed9a61e5426e719b7ed2a9fab582fd",
-        "url": "https://cdn.wocute.com/wocute_insightdist/assets/.DS_Store",
+        "url": "https://cdn.wocute.com/dist/assets/.DS_Store",
         "version": "1"
     },
     {
         "name": "dist/assets/style.css",
         "size": 3834,
         "md5": "52b74999acdb647199695b75f78c92b5",
-        "url": "https://cdn.wocute.com/wocute_insightdist/assets/style.css",
+        "url": "https://cdn.wocute.com/dist/assets/style.css",
         "version": "1"
     },
     {
         "name": "dist/assets/fonts/Wocute.eot",
         "size": 13976,
         "md5": "24f79157334a58f3b9f79dd3a1368cf7",
-        "url": "https://cdn.wocute.com/wocute_insightdist/assets/fonts/Wocute.eot",
+        "url": "https://cdn.wocute.com/dist/assets/fonts/Wocute.eot",
         "version": "1"
     },
     {
         "name": "dist/assets/fonts/Wocute.ttf",
         "size": 13816,
         "md5": "b1f3b662b3172576ff9ee62b16b57042",
-        "url": "https://cdn.wocute.com/wocute_insightdist/assets/fonts/Wocute.ttf",
+        "url": "https://cdn.wocute.com/dist/assets/fonts/Wocute.ttf",
         "version": "1"
     },
     {
         "name": "dist/assets/fonts/Wocute.svg",
         "size": 50022,
         "md5": "4bf543dd9b7d8b2e0bc39b41647fde80",
-        "url": "https://cdn.wocute.com/wocute_insightdist/assets/fonts/Wocute.svg",
+        "url": "https://cdn.wocute.com/dist/assets/fonts/Wocute.svg",
         "version": "1"
     },
     {
         "name": "dist/assets/fonts/Wocute.woff",
         "size": 13892,
         "md5": "7d5c48b8270f8f86d439d1b426b48a47",
-        "url": "https://cdn.wocute.com/wocute_insightdist/assets/fonts/Wocute.woff",
+        "url": "https://cdn.wocute.com/dist/assets/fonts/Wocute.woff",
         "version": "1"
     }
 ]

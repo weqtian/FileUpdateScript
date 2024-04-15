@@ -32,7 +32,7 @@ def generate_manifest(project: str = None, directory: str = None) -> None:
             for filename in files:
                 filepath = os.path.join(root, filename)
                 name = os.path.relpath(filepath, directory)
-                url = DOMAIN + f'/{project}' + directory_name + '/' + name
+                url = DOMAIN + '/' + directory_name + '/' + name
                 file_info = {
                     "name": directory_name + '/' + name,
                     "size": os.path.getsize(filepath),
@@ -86,7 +86,7 @@ def compare_versions(project_name: str, version: list, new_version: list) -> dic
 async def generate_project_version_info():
     """ 生成多个项目的版本信息 """
     wocute_h5 = '/web-mobile/src'
-    wocute_insight = '/dist'
+    wocute_insight = '/wocute-h5'
     wocute_activity = '/web-mobile/cocos-js'
     version_task = {
         # 'wocute_h5': BASE_DIR + wocute_h5,
