@@ -42,4 +42,4 @@ async def get_project_version():
 
 if __name__ == '__main__':
     # 启动API
-    uvicorn.run('api:app', host=get_lan_ip(), port=8080, reload=True)
+    uvicorn.run('api:app', host='0.0.0.0', port=8080, reload=True)
