@@ -1,0 +1,37 @@
+[
+    {
+        "name": "src/settings.json",
+        "size": 17304,
+        "md5": "d39787b20e171fdc5ff731202909a530",
+        "url": "https://cdn.wocute.com/src/settings.json",
+        "version": "1"
+    },
+    {
+        "name": "src/import-map.json",
+        "size": 117,
+        "md5": "7961d40d9a023e3890e0caedbe7b457b",
+        "url": "https://cdn.wocute.com/src/import-map.json",
+        "version": "1"
+    },
+    {
+        "name": "src/system.bundle.js",
+        "size": 12028,
+        "md5": "692e9d80d216b49ee02d6a2f17a36d8a",
+        "url": "https://cdn.wocute.com/src/system.bundle.js",
+        "version": "1"
+    },
+    {
+        "name": "src/polyfills.bundle.js",
+        "size": 14750,
+        "md5": "5adbfb0ae1eddd0a5af84c8a72e16cea",
+        "url": "https://cdn.wocute.com/src/polyfills.bundle.js",
+        "version": "1"
+    },
+    {
+        "name": "src/chunks/bundle.js",
+        "size": 693771,
+        "md5": "a553cc3bc974456ccf34b56723c1bfa7",
+        "url": "https://cdn.wocute.com/src/chunks/bundle.js",
+        "version": "1"
+    }
+]

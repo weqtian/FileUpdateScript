@@ -1,0 +1,51 @@
+[
+    {
+        "name": "cocos-js/bullet.wasm-90bf95e1.js",
+        "size": 152,
+        "md5": "8ca655c09332c18453f781158d97b7af",
+        "url": "https://cdn.wocute.com/cocos-js/bullet.wasm-90bf95e1.js",
+        "version": "1"
+    },
+    {
+        "name": "cocos-js/wait-for-ammo-instantiation.js",
+        "size": 147,
+        "md5": "1b4c9d2666d003b0938a075950e91a40",
+        "url": "https://cdn.wocute.com/cocos-js/wait-for-ammo-instantiation.js",
+        "version": "1"
+    },
+    {
+        "name": "cocos-js/_commonjsHelpers-364bf34e.js",
+        "size": 395,
+        "md5": "9773f923964382f7df58d0cd0c842be7",
+        "url": "https://cdn.wocute.com/cocos-js/_commonjsHelpers-364bf34e.js",
+        "version": "1"
+    },
+    {
+        "name": "cocos-js/cc.js",
+        "size": 1469314,
+        "md5": "381223b4d85f060d49f29b03db17fe30",
+        "url": "https://cdn.wocute.com/cocos-js/cc.js",
+        "version": "1"
+    },
+    {
+        "name": "cocos-js/bullet.cocos-db1ddef2.js",
+        "size": 765988,
+        "md5": "038a84a4219ddd4cd4a588b16ff60f94",
+        "url": "https://cdn.wocute.com/cocos-js/bullet.cocos-db1ddef2.js",
+        "version": "1"
+    },
+    {
+        "name": "cocos-js/instantiated-0fd1e7b2.js",
+        "size": 819228,
+        "md5": "8419a396dc0d383bd5268bb84d4dfdef",
+        "url": "https://cdn.wocute.com/cocos-js/instantiated-0fd1e7b2.js",
+        "version": "1"
+    },
+    {
+        "name": "cocos-js/assets/bullet.wasm-c98527b6.wasm",
+        "size": 418321,
+        "md5": "28c8e1512ef50278b2d6839bde2da71f",
+        "url": "https://cdn.wocute.com/cocos-js/assets/bullet.wasm-c98527b6.wasm",
+        "version": "1"
+    }
+]
