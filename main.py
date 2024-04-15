@@ -5,6 +5,7 @@
 @Author     : 晴天 
 @CreateTime : 2024-04-12 下午3:48 
 """
+import asyncio
 import os
 import json
 import hashlib
@@ -111,4 +112,5 @@ async def generate_project_version_info():
 
 
 if __name__ == "__main__":
-    print(generate_project_version_info())
+    version_info_list = asyncio.run(generate_project_version_info())
+    print(version_info_list)
