@@ -1,0 +1,1 @@
+import{ag as n}from "./index-ee55951f.js";const e=function(e, t=n().getLanguage){var a;let r=e[t];if(!r){const n=null==(a=Object.keys(e))?void 0:a[0];r=n?e[n]:""}return r}({ar:"/static/png/banner_ar-5f3f6416.png",en:"/static/png/banner_en-128fff2b.png",fr:"/static/png/banner_fr-0897ee3f.png"});export{e as B};
