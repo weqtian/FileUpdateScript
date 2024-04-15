@@ -32,7 +32,7 @@ def get_lan_ip():
     return ip
 
 
-@app.get("/api/getProjectVersion", summary='获取项目版本信息')
+@app.get("/api/getVersionInfo", summary='获取项目版本信息')
 async def get_project_version():
     """ 获取项目版本信息 """
     version_list = await generate_project_version_info()
