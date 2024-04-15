@@ -15,7 +15,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))  # 基础路径
 
 
 def generate_file_md5(filename):
-    """ 计算文件的MD5值 """
+    """ 生成文件MD5 """
     hash_md5 = hashlib.md5()
     with open(filename, "rb") as f:
         for chunk in iter(lambda: f.read(4096), b""):
