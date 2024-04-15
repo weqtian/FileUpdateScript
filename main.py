@@ -114,5 +114,6 @@ async def generate_project_version_info():
 
 
 if __name__ == "__main__":
+    # 测试
     version_info_list = asyncio.run(generate_project_version_info())
     print(version_info_list)

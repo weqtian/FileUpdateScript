@@ -5,6 +5,7 @@
 @Author     : 晴天 
 @CreateTime : 2024-04-12 下午11:48 
 """
+import uvicorn
 from fastapi import FastAPI
 from main import generate_project_version_info
 
@@ -20,5 +21,5 @@ async def get_project_version():
 
 
 if __name__ == '__main__':
-    import uvicorn
+    # 启动API
     uvicorn.run('api:app', host='0.0.0.0', port=8000, reload=True)
