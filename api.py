@@ -36,7 +36,7 @@ def get_lan_ip():
 async def get_project_version():
     """ 获取项目版本信息 """
     version_list = await generate_project_version_info()
-    data = {"code": 200, "message": "OK", "project_num": len(version_list), "data": version_list}
+    data = {"code": 200, "message": "OK", "project_number": len(version_list), "data": version_list}
     return data
 
 
