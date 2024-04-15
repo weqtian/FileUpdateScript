@@ -1,1 +1,0 @@
-var e=Object.defineProperty,t=(t,c,r)=>(((t,c,r)=>{c in t?e(t,c,{enumerable:!0,configurable:!0,writable:!0,value:r}):t[c]=r})(t,"symbol"!=typeof c?c+"":c,r),r);const c=new class{constructor(){t(this,"feedbackSubmitSucceeded",!1)}set(e,t){this[e]=t}};export{c as l};
