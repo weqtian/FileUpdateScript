@@ -105,8 +105,9 @@ async def generate_project_version_info():
         new_version_info = read_version_file(project_new_version_file)
         result = compare_versions(project_name, old_version_info, new_version_info)
         all_project_version.append({
-            'project_name': project_name, 'version': result['files'],
+            'project_name': project_name,
             'total_file_count': len(result['files']),
+            'version_list': result['files']
         })
     return all_project_version
 
