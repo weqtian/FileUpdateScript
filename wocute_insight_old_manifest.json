@@ -1,0 +1,1206 @@
+[
+    {
+        "name": "web-mobile/index.html",
+        "size": 2028,
+        "md5": "d0110a8e4ab1781be91228afe1c4a94c",
+        "url": "https://cdn.wocute.com/web-mobile/index.html",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/index.js",
+        "size": 820,
+        "md5": "3c063e674299d2a5b5c48301e4ab38ce",
+        "url": "https://cdn.wocute.com/web-mobile/index.js",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/style.css",
+        "size": 1039,
+        "md5": "e598f68b9e0501f910d4935032356ab8",
+        "url": "https://cdn.wocute.com/web-mobile/style.css",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/application.js",
+        "size": 2366,
+        "md5": "13766ce62d440f0c6a36f14b551bc2ae",
+        "url": "https://cdn.wocute.com/web-mobile/application.js",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/l10n/config.json",
+        "size": 320,
+        "md5": "c87df68145b9b5203efa12185d6ab168",
+        "url": "https://cdn.wocute.com/web-mobile/assets/l10n/config.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/l10n/index.js",
+        "size": 603,
+        "md5": "b49bd6add48ed13e30a69538f4a9057f",
+        "url": "https://cdn.wocute.com/web-mobile/assets/l10n/index.js",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/l10n/import/d2/d2f18e87-d231-4e20-9e54-06a7aa2bd5c1.json",
+        "size": 161,
+        "md5": "58717abbd0201be4fd24a9e18a92d9d4",
+        "url": "https://cdn.wocute.com/web-mobile/assets/l10n/import/d2/d2f18e87-d231-4e20-9e54-06a7aa2bd5c1.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/l10n/import/fa/fa0fa81e-eaf8-4eb4-8a48-181676ceff01.json",
+        "size": 8867,
+        "md5": "31e6289d94d7375569b1f3ed458bd505",
+        "url": "https://cdn.wocute.com/web-mobile/assets/l10n/import/fa/fa0fa81e-eaf8-4eb4-8a48-181676ceff01.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/config.json",
+        "size": 21582,
+        "md5": "276f85e9003912fd6e6d4c6b97bdd467",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/config.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/index.js",
+        "size": 612,
+        "md5": "0a2cabb1c0b77a0687faf992d98bc9e2",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/index.js",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/0d/0d94ec4e-0725-4802-8a27-40f18eb8c73b.png",
+        "size": 15820,
+        "md5": "9db1fa6a5a41198fba3c1b3aefa05c07",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/0d/0d94ec4e-0725-4802-8a27-40f18eb8c73b.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/95/95601f65-8b81-4ad5-afa2-616745ef2e1f.png",
+        "size": 27100,
+        "md5": "966b174ca389e3254daa279258903665",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/95/95601f65-8b81-4ad5-afa2-616745ef2e1f.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/95/951249e0-9f16-456d-8b85-a6ca954da16b.png",
+        "size": 1050,
+        "md5": "c06a93f5f1a8a1c6edc4fd8b52e96cbf",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/95/951249e0-9f16-456d-8b85-a6ca954da16b.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/59/595b8785-95af-4bb8-b775-d7586429620f.png",
+        "size": 9809,
+        "md5": "4b6534f853bcbe4c30a8b6288787d3d8",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/59/595b8785-95af-4bb8-b775-d7586429620f.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/57/57c2ee56-ecc4-4a05-9814-762833ae7c6e.png",
+        "size": 1006,
+        "md5": "48746cb1aa8d436eebcece8f3209334d",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/57/57c2ee56-ecc4-4a05-9814-762833ae7c6e.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/3b/3b3bd940-cb86-4995-9236-cbdcf1f78248.png",
+        "size": 346,
+        "md5": "73eb08eccd7b3ef656348cb4f32c3092",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/3b/3b3bd940-cb86-4995-9236-cbdcf1f78248.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/3c/3c4a4492-3c11-4cb6-a503-55af0d2130bb.png",
+        "size": 2406,
+        "md5": "0bd69f2d0eb76aeb54af6d9e6aa45a7d",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/3c/3c4a4492-3c11-4cb6-a503-55af0d2130bb.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/34/341ea4d6-a538-4747-8fde-035c21e868b6.png",
+        "size": 569,
+        "md5": "954823ae62868b8a0fac1904fe871859",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/34/341ea4d6-a538-4747-8fde-035c21e868b6.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/02/02f83127-9930-47e5-a587-ddc4cca099c7.png",
+        "size": 117947,
+        "md5": "0c1164e02b585585e868ffa1736243b2",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/02/02f83127-9930-47e5-a587-ddc4cca099c7.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/a3/a3b9f350-10eb-41b3-a3a3-20a76b175970.png",
+        "size": 2022,
+        "md5": "0c97f5606a73d84c5e0785a0b30b3ba6",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/a3/a3b9f350-10eb-41b3-a3a3-20a76b175970.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/b5/b5186278-1e3f-4bb0-878b-b00881207a1d.png",
+        "size": 13921,
+        "md5": "1160b3e420a25d9a3b1ca0a6a7969959",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/b5/b5186278-1e3f-4bb0-878b-b00881207a1d.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/ad/ad01cb7d-72bc-44f1-ae52-eac10549d165.png",
+        "size": 630,
+        "md5": "009f0a7690f307fcf72bd7ebc6de2b5a",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/ad/ad01cb7d-72bc-44f1-ae52-eac10549d165.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/bb/bb55965b-2675-411b-95df-4c4dc585dd79.png",
+        "size": 127212,
+        "md5": "56968eab7f7290f0a3f75c518ab24cc6",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/bb/bb55965b-2675-411b-95df-4c4dc585dd79.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/b3/b34c8652-ac19-42d3-ac5c-b563270f45dc.png",
+        "size": 4121,
+        "md5": "bc715145d295825176200ecc0dde3dc7",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/b3/b34c8652-ac19-42d3-ac5c-b563270f45dc.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/da/da343f47-9387-4c9e-9110-4f25f64a473c.png",
+        "size": 5628,
+        "md5": "cede3d827ed44ee247cdcefa1400d455",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/da/da343f47-9387-4c9e-9110-4f25f64a473c.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/da/da1a539d-0f80-432c-b1fd-7f7b0a7cd858.mp3",
+        "size": 23453,
+        "md5": "d77a5e551efda8f062870d7959a8d74a",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/da/da1a539d-0f80-432c-b1fd-7f7b0a7cd858.mp3",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/a5/a5ad8daf-b86d-4149-997f-0d95b8bfab87.png",
+        "size": 128650,
+        "md5": "e3180b42cb9bc85b3f2d65fff4e08313",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/a5/a5ad8daf-b86d-4149-997f-0d95b8bfab87.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/bd/bd1bcaba-bd7d-4a71-b143-997c882383e4.png",
+        "size": 1038,
+        "md5": "17df6c6f608454e43fd7c3c2a8c3d0b0",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/bd/bd1bcaba-bd7d-4a71-b143-997c882383e4.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/d1/d1e6e87c-54a4-4804-99d7-bb479ebc7efc.png",
+        "size": 14437,
+        "md5": "1abb8b83912fbb7942396757151e25a6",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/d1/d1e6e87c-54a4-4804-99d7-bb479ebc7efc.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/d1/d1037bbb-d2b2-4f7e-9973-b9b86779b791.png",
+        "size": 21362,
+        "md5": "1cbbf53f19365191d0f01169d49af1bc",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/d1/d1037bbb-d2b2-4f7e-9973-b9b86779b791.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/d8/d83d3a57-a4ea-4a07-b42a-3ab01a6de0f2.png",
+        "size": 311,
+        "md5": "c33ea93b40945e8e58f4cbd554fc5f58",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/d8/d83d3a57-a4ea-4a07-b42a-3ab01a6de0f2.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/f4/f4a1046b-ae2e-4216-875b-41ff5ed58247.png",
+        "size": 4886,
+        "md5": "413377d08de781eba7295b9ed8955e5b",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/f4/f4a1046b-ae2e-4216-875b-41ff5ed58247.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/f4/f4c51ca8-8cba-4841-8ff2-cdb3b1c78584.png",
+        "size": 80815,
+        "md5": "755e1f43eab0a5b9e5d1269ba5ca53ac",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/f4/f4c51ca8-8cba-4841-8ff2-cdb3b1c78584.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/c7/c7956d7f-6663-42a3-a16f-01b8e5066a4c.png",
+        "size": 57095,
+        "md5": "2c459a821723e81679e524ed6cd1511a",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/c7/c7956d7f-6663-42a3-a16f-01b8e5066a4c.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/c9/c9cadbe1-cb39-42fa-b9ba-7d3348c5b129.png",
+        "size": 58577,
+        "md5": "8ffa6e173a2bdd5489878b937976d929",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/c9/c9cadbe1-cb39-42fa-b9ba-7d3348c5b129.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/e3/e32a1066-c6cd-4124-925f-53cc36afa0ac.png",
+        "size": 617,
+        "md5": "d5720a3fef7525092758ae4126524f48",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/e3/e32a1066-c6cd-4124-925f-53cc36afa0ac.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/e3/e337580d-e712-4dbc-83ad-414e69a173a5.png",
+        "size": 803636,
+        "md5": "33854abaaaa51f90d8943af78950a253",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/e3/e337580d-e712-4dbc-83ad-414e69a173a5.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/c8/c8f997a1-10fd-4951-a42b-709510fe16a2.png",
+        "size": 103535,
+        "md5": "732744bfa04a0e9c66dbcadce242515b",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/c8/c8f997a1-10fd-4951-a42b-709510fe16a2.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/c8/c8ef8645-e9a0-40d3-af02-87e0c5ac0848.png",
+        "size": 50810,
+        "md5": "562f65da6e358d4bea51a3f008321f30",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/c8/c8ef8645-e9a0-40d3-af02-87e0c5ac0848.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/20/204a65b6-4c40-4ef3-8dd8-fcc1748306a3.png",
+        "size": 3516,
+        "md5": "ed2ddf4a5ee11e09aa0b2177783c6231",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/20/204a65b6-4c40-4ef3-8dd8-fcc1748306a3.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/20/20835ba4-6145-4fbc-a58a-051ce700aa3e.png",
+        "size": 1082,
+        "md5": "90cf45d059d0408bec327f66eae5764c",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/20/20835ba4-6145-4fbc-a58a-051ce700aa3e.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/29/291d19cf-3868-451e-ab59-93ba1d64d621.png",
+        "size": 5912,
+        "md5": "751a0dcc323a74b3af39961e8d696e34",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/29/291d19cf-3868-451e-ab59-93ba1d64d621.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/29/297377c4-39b6-4f5f-9316-729a7e47fe91.png",
+        "size": 13481,
+        "md5": "ba4753584fa0b63428c149f72da67b8d",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/29/297377c4-39b6-4f5f-9316-729a7e47fe91.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/73/73749dcf-3ca7-4b97-9da6-03b47fcb66f4.png",
+        "size": 16502,
+        "md5": "73a9038ce29cf633f02cda714c65c653",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/73/73749dcf-3ca7-4b97-9da6-03b47fcb66f4.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/73/73952385-a51d-46b1-9428-9d0e6037c795.png",
+        "size": 6376,
+        "md5": "ae1173e991d3e138cd8447bf46209d78",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/73/73952385-a51d-46b1-9428-9d0e6037c795.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/73/73896e5b-6217-4357-a04e-d8547e2517bd.png",
+        "size": 2043,
+        "md5": "febd7de86f29d8a5aff34fc1b720603f",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/73/73896e5b-6217-4357-a04e-d8547e2517bd.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/74/74e93ce5-4344-4e04-a99b-06a4d4944454.png",
+        "size": 16121,
+        "md5": "56b53d58231fd2144b1b8f951c4e4a21",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/74/74e93ce5-4344-4e04-a99b-06a4d4944454.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/8f/8f85e811-1864-46d7-a4fb-e03f026be39a.png",
+        "size": 53703,
+        "md5": "29021f06bc392b384281c18d827092cc",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/8f/8f85e811-1864-46d7-a4fb-e03f026be39a.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/19/19625c8f-f223-4b64-a26e-f0880c698970.png",
+        "size": 587,
+        "md5": "6831ca66408f8075ffabfb00b99ff0c0",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/19/19625c8f-f223-4b64-a26e-f0880c698970.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/26/268d50da-2e16-49e4-add7-fc6e6294a257.png",
+        "size": 10641,
+        "md5": "659d488d7b96bac956f8c42dde22f19e",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/26/268d50da-2e16-49e4-add7-fc6e6294a257.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/81/81b2da19-c82a-4af3-90d2-59ab70af1897.png",
+        "size": 23592,
+        "md5": "ba0dd6ae831a69e8f319f410cd43a75b",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/81/81b2da19-c82a-4af3-90d2-59ab70af1897.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/43/43c2c3f6-89be-4b45-8b86-262dd533af5c.png",
+        "size": 103617,
+        "md5": "15fc95a8723f7d239f0368221f2ab984",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/43/43c2c3f6-89be-4b45-8b86-262dd533af5c.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/43/433a06a4-38e2-46cd-9d0b-fdef99f08cf3.png",
+        "size": 24861,
+        "md5": "085d0cb3c8fd12d94aa78339cc276b8a",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/43/433a06a4-38e2-46cd-9d0b-fdef99f08cf3.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/88/88b3c374-6b23-4ae3-928e-9f71f99e71fa.atlas",
+        "size": 1493,
+        "md5": "1a25fcfa7341cefdb94651e63fcf2eeb",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/88/88b3c374-6b23-4ae3-928e-9f71f99e71fa.atlas",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/6b/6b90204c-62f7-4100-8ef5-98bdb884ab32.png",
+        "size": 6285,
+        "md5": "cb441bd92b680efed8d4fcc81d75252a",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/6b/6b90204c-62f7-4100-8ef5-98bdb884ab32.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/54/54ac2a3d-a25b-4081-9f97-d2ecc70827aa.png",
+        "size": 4807,
+        "md5": "2bc811d41c53b752814a513a65396797",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/54/54ac2a3d-a25b-4081-9f97-d2ecc70827aa.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/54/544e49d6-3f05-4fa8-9a9e-091f98fc2ce8.png",
+        "size": 1114,
+        "md5": "83fcc9912e01ae5411c357651fb8b1cf",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/54/544e49d6-3f05-4fa8-9a9e-091f98fc2ce8.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/98/98e43359-f885-4a49-9941-ebee225e426f.png",
+        "size": 22531,
+        "md5": "0cb0af9fc9b5fd9888c8cf8f046233b3",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/98/98e43359-f885-4a49-9941-ebee225e426f.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/53/53ea0e19-9dea-4310-8912-c348e72d0694.png",
+        "size": 757075,
+        "md5": "6ac752b8ecb24171f3ce80407975b417",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/53/53ea0e19-9dea-4310-8912-c348e72d0694.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/5e/5e179e93-6b8e-442a-8507-ee326dfc18eb.png",
+        "size": 472,
+        "md5": "91add476545e82b2086826c6df877824",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/5e/5e179e93-6b8e-442a-8507-ee326dfc18eb.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/37/3771d5a0-5d4b-4ecf-96bc-3e4cb740e08f.png",
+        "size": 17223,
+        "md5": "2a159d0a2f061b9232226c081a16f479",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/37/3771d5a0-5d4b-4ecf-96bc-3e4cb740e08f.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/37/37dd0eb4-e62a-4b03-ae2c-31c0537eaa81.png",
+        "size": 135,
+        "md5": "49976e216880ba64168af8e0553a54d0",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/37/37dd0eb4-e62a-4b03-ae2c-31c0537eaa81.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/55/550626fa-feb7-40cf-9441-6329e765ee6a.png",
+        "size": 86046,
+        "md5": "aa90fc46e9dd2471dc3f9777f4d2f22f",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/55/550626fa-feb7-40cf-9441-6329e765ee6a.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/97/974a8024-a8ac-4d9a-b0b2-d45b7c3e7085.png",
+        "size": 89621,
+        "md5": "7632d14e8dca2442c7f61795b7ea7752",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/97/974a8024-a8ac-4d9a-b0b2-d45b7c3e7085.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/64/640a1c3b-a0e0-41b3-879f-0a6a3908f211.png",
+        "size": 98911,
+        "md5": "16dacd65bc5e42fc0a9230096333ade8",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/64/640a1c3b-a0e0-41b3-879f-0a6a3908f211.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/90/90082b2a-4521-43a5-8731-0e1f7979a9d4.mp3",
+        "size": 71401,
+        "md5": "7a7432aa055ea1f737c78fdc66bdba58",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/90/90082b2a-4521-43a5-8731-0e1f7979a9d4.mp3",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/bf/bfae73fe-5af7-4d16-a17f-ef804e989624.png",
+        "size": 17569,
+        "md5": "5e8e23706b4bdb5b68cdbf674ed10971",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/bf/bfae73fe-5af7-4d16-a17f-ef804e989624.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/d3/d3247e80-6b7c-4748-b8ab-1fd7ad5dd6d6.png",
+        "size": 5234,
+        "md5": "4cf072049c228ff18e6a62fa2a9eadaa",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/d3/d3247e80-6b7c-4748-b8ab-1fd7ad5dd6d6.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/d4/d42f103a-e52e-4a8a-b8ec-7c36b924b20e.png",
+        "size": 17569,
+        "md5": "5e8e23706b4bdb5b68cdbf674ed10971",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/d4/d42f103a-e52e-4a8a-b8ec-7c36b924b20e.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/d4/d450c599-8886-4abd-98a3-300983d7a311.png",
+        "size": 3545,
+        "md5": "7b4ba93d96f07b31f2b9e62d403c83ef",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/d4/d450c599-8886-4abd-98a3-300983d7a311.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/b1/b1a7c244-b98a-41b8-8a00-0f33fda2b38d.png",
+        "size": 17628,
+        "md5": "ab3d526ed9818aed70c67deed8192f6f",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/b1/b1a7c244-b98a-41b8-8a00-0f33fda2b38d.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/dd/ddbe33c7-ffc4-4112-8dea-947a6ce088bd.mp3",
+        "size": 13294,
+        "md5": "9165ff8c6097e856cfa62b5211b219cf",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/dd/ddbe33c7-ffc4-4112-8dea-947a6ce088bd.mp3",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/dd/dd73463c-622f-4614-8d35-17447a858fc3.png",
+        "size": 220819,
+        "md5": "02b8b5b886d3e0f6fd4f01ca9252b63d",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/dd/dd73463c-622f-4614-8d35-17447a858fc3.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/aa/aaaf9a5b-e881-4150-b67d-bdb6aace9b26.png",
+        "size": 89621,
+        "md5": "7632d14e8dca2442c7f61795b7ea7752",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/aa/aaaf9a5b-e881-4150-b67d-bdb6aace9b26.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/af/afc47931-f066-46b0-90be-9fe61f213428.png",
+        "size": 1047,
+        "md5": "d55c2eb11156ee03fcc4549419c7f61b",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/af/afc47931-f066-46b0-90be-9fe61f213428.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/b7/b730527c-3233-41c2-aaf7-7cdab58f9749.png",
+        "size": 158,
+        "md5": "cdbc996e9ab38bf90c517c528459810e",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/b7/b730527c-3233-41c2-aaf7-7cdab58f9749.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/b7/b731d3a6-e689-4e4f-ba8e-2b3d1fadbc8a.mp3",
+        "size": 2995,
+        "md5": "b2fa961d9ac6c37f93c9b66b9d62afde",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/b7/b731d3a6-e689-4e4f-ba8e-2b3d1fadbc8a.mp3",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/de/dee179c0-ed43-4566-b14f-d6a0f66b7569.png",
+        "size": 228853,
+        "md5": "2a06c8efaf39703da24a4869019986aa",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/de/dee179c0-ed43-4566-b14f-d6a0f66b7569.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/a6/a6a97afd-fea8-4fdb-a1f3-42fddd938a68.png",
+        "size": 56148,
+        "md5": "d710b85ad6ce2e40269f405ba0a2b14d",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/a6/a6a97afd-fea8-4fdb-a1f3-42fddd938a68.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/c4/c43dc1f4-7dd5-4b7f-8de6-862e8c14c882.png",
+        "size": 5284,
+        "md5": "34c60268949563f013e50e691ae069b5",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/c4/c43dc1f4-7dd5-4b7f-8de6-862e8c14c882.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/ea/ea54d8cc-3e9f-4371-8778-2c84471575f8.png",
+        "size": 17118,
+        "md5": "0172646e719a07f1ba102964095cb096",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/ea/ea54d8cc-3e9f-4371-8778-2c84471575f8.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/ea/eab6ecee-393a-4263-b104-eb437eca93d6.png",
+        "size": 299,
+        "md5": "2569ea4b1862eb18f03de67ad548baf0",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/ea/eab6ecee-393a-4263-b104-eb437eca93d6.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/f0/f0812306-c048-414f-9934-83a4300f074a.atlas",
+        "size": 1487,
+        "md5": "4c52e604ad9e64a417b7935e44f223c2",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/f0/f0812306-c048-414f-9934-83a4300f074a.atlas",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/ff/ffb88a8f-af62-48f4-8f1d-3cb606443a43.png",
+        "size": 1187,
+        "md5": "6d707a7a357fe9eb17dce608a8255e7d",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/ff/ffb88a8f-af62-48f4-8f1d-3cb606443a43.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/ff/ff512fe7-6452-46d8-8fb7-44f9be2aaf78.png",
+        "size": 331,
+        "md5": "ac1d60b3275bcd334ddbd7fde6cf547c",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/ff/ff512fe7-6452-46d8-8fb7-44f9be2aaf78.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/ff/ff170b96-8906-49a4-a5be-1fa81868aba2.png",
+        "size": 11282,
+        "md5": "5f80a484c8e1f265305dc30b9970eacd",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/ff/ff170b96-8906-49a4-a5be-1fa81868aba2.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/c2/c2925c7d-6635-49fa-82ce-5b0b802851ae.png",
+        "size": 4180,
+        "md5": "60b95b3b6620287e1eaed0eace977ce1",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/c2/c2925c7d-6635-49fa-82ce-5b0b802851ae.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/e0/e0ec4dd8-9ed2-4de7-ab7e-9c7297e19a8a.atlas",
+        "size": 179,
+        "md5": "78607ea210ead33ec5273ba4fe9fcdbb",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/e0/e0ec4dd8-9ed2-4de7-ab7e-9c7297e19a8a.atlas",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/e0/e08f0193-a3ed-4994-aaaa-f94b860023c1.png",
+        "size": 4827,
+        "md5": "f35669328832d76566fb0c1da2883bee",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/e0/e08f0193-a3ed-4994-aaaa-f94b860023c1.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/41/41e9d157-ed4a-4edd-91ec-96a21608a6f7.png",
+        "size": 26660,
+        "md5": "31875a8af11ba0ad963d8abc2bc4defc",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/41/41e9d157-ed4a-4edd-91ec-96a21608a6f7.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/48/480d2bed-57da-4b63-902c-21f48fbe4ccc.png",
+        "size": 21538,
+        "md5": "56b6b09713a0571c58142891ea0f3a6e",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/48/480d2bed-57da-4b63-902c-21f48fbe4ccc.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/1e/1eb791f7-c91b-4136-9bfd-bc0d51787960.png",
+        "size": 9374,
+        "md5": "f28f4f907b1f7322de68ecf7e4b8a2c0",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/1e/1eb791f7-c91b-4136-9bfd-bc0d51787960.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/4a/4aab5d82-f4dc-473d-83b9-70b7e9a6b304.mp3",
+        "size": 2995,
+        "md5": "808447e76cc94ea28b42205708d207e3",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/4a/4aab5d82-f4dc-473d-83b9-70b7e9a6b304.mp3",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/24/24f6b4a3-2f75-4381-99d4-fc4fb9d35794.png",
+        "size": 503,
+        "md5": "1a47948cd09bd8245042e478db8b2221",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/24/24f6b4a3-2f75-4381-99d4-fc4fb9d35794.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/15/159be5c7-2058-401d-ae12-f1a20192e6ac.png",
+        "size": 18147,
+        "md5": "40cf30aaf644808d8a772c47f6735ec0",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/15/159be5c7-2058-401d-ae12-f1a20192e6ac.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/8c/8c153a18-983f-48cc-95cd-b601bc0011e6.png",
+        "size": 51637,
+        "md5": "363010175376daaf2a391aac2a681770",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/8c/8c153a18-983f-48cc-95cd-b601bc0011e6.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/85/856697d1-f0d8-4461-b275-6dc93f9ab165.png",
+        "size": 11487,
+        "md5": "33602889e9a3f503db7dc918a027533b",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/85/856697d1-f0d8-4461-b275-6dc93f9ab165.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/85/85d6851b-d2ea-4a07-b086-d8e46388f078.png",
+        "size": 635,
+        "md5": "43df527ccf05bce7e61cb7eff4540818",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/85/85d6851b-d2ea-4a07-b086-d8e46388f078.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/1d/1d2c3d8a-6970-4d5f-977c-ed7a58a611ff.png",
+        "size": 747,
+        "md5": "31ab5d5255169f9710534752244c8742",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/1d/1d2c3d8a-6970-4d5f-977c-ed7a58a611ff.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/76/76878a88-7dd7-4207-888b-6519af26bbfc.png",
+        "size": 16502,
+        "md5": "73a9038ce29cf633f02cda714c65c653",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/76/76878a88-7dd7-4207-888b-6519af26bbfc.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/1c/1cae0496-4f49-4e3e-994c-1d5b55ff1a12.png",
+        "size": 721,
+        "md5": "beea752c96158d1ecb79497d447e52dd",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/1c/1cae0496-4f49-4e3e-994c-1d5b55ff1a12.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/2e/2e5f88b3-880c-46d5-bef9-82afa68d7d89.png",
+        "size": 295,
+        "md5": "6be4649cbce2a6dcad22a4a4fee69cac",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/2e/2e5f88b3-880c-46d5-bef9-82afa68d7d89.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/78/784044a4-8a20-4d15-9cb5-cba13bf868bd.png",
+        "size": 24740,
+        "md5": "f1e7dfede635dbd351130cdd7af2d3a3",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/78/784044a4-8a20-4d15-9cb5-cba13bf868bd.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/7f/7f2eb71e-55aa-4e0c-a02d-e6aa22afc761.png",
+        "size": 4073,
+        "md5": "2b34d28299dfb12ad3e8425692eeec04",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/7f/7f2eb71e-55aa-4e0c-a02d-e6aa22afc761.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/native/7a/7af85175-4fd1-408c-8348-4523d08ec6ad.png",
+        "size": 736,
+        "md5": "ea50f41147c04ef7c4af0d36c3edf1a4",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/native/7a/7af85175-4fd1-408c-8348-4523d08ec6ad.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/import/0d/0d3a3353f.json",
+        "size": 1863,
+        "md5": "2eecf9e5e248c527f24ec3d26ab5962d",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/import/0d/0d3a3353f.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/import/50/501e43ff-cbff-43df-ba7e-a71391d3d410.json",
+        "size": 7988,
+        "md5": "4633fbca207cc546e7032b59f1767a5f",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/import/50/501e43ff-cbff-43df-ba7e-a71391d3d410.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/import/bb/bb55965b-2675-411b-95df-4c4dc585dd79@f9941.json",
+        "size": 566,
+        "md5": "e0f29b5fa3bcb104788f9ed64d5427c7",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/import/bb/bb55965b-2675-411b-95df-4c4dc585dd79@f9941.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/import/da/da1a539d-0f80-432c-b1fd-7f7b0a7cd858.json",
+        "size": 123,
+        "md5": "473c2a0fc1d0a372c5cc0751da54a10c",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/import/da/da1a539d-0f80-432c-b1fd-7f7b0a7cd858.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/import/f4/f4c51ca8-8cba-4841-8ff2-cdb3b1c78584@f9941.json",
+        "size": 715,
+        "md5": "c42ecca0ec1f0bc4eb5dba5f3b298cdf",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/import/f4/f4c51ca8-8cba-4841-8ff2-cdb3b1c78584@f9941.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/import/c7/c7956d7f-6663-42a3-a16f-01b8e5066a4c@f9941.json",
+        "size": 560,
+        "md5": "99c902399fdf70c70146946fe6fac8c3",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/import/c7/c7956d7f-6663-42a3-a16f-01b8e5066a4c@f9941.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/import/e3/e32a1066-c6cd-4124-925f-53cc36afa0ac@f9941.json",
+        "size": 554,
+        "md5": "18f1100a76e5c6c4886749a3d2e77a3f",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/import/e3/e32a1066-c6cd-4124-925f-53cc36afa0ac@f9941.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/import/e3/e337580d-e712-4dbc-83ad-414e69a173a5@f9941.json",
+        "size": 704,
+        "md5": "318486badbfe7315e21820ff510fefc5",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/import/e3/e337580d-e712-4dbc-83ad-414e69a173a5@f9941.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/import/c8/c8f997a1-10fd-4951-a42b-709510fe16a2@f9941.json",
+        "size": 559,
+        "md5": "c16e5e88d9ba4b95d578fa75413d2309",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/import/c8/c8f997a1-10fd-4951-a42b-709510fe16a2@f9941.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/import/ec/ec61461b-dc35-4185-8f79-15f35b8adc64.cconb",
+        "size": 1720,
+        "md5": "1f1102a4e5a2f6d075ca9af795361920",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/import/ec/ec61461b-dc35-4185-8f79-15f35b8adc64.cconb",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/import/4e/4e3815be-fc2e-414d-916e-7d45cd0e94cf.json",
+        "size": 7355,
+        "md5": "f913d20204f4fab662adccd84a5cdabd",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/import/4e/4e3815be-fc2e-414d-916e-7d45cd0e94cf.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/import/20/204a65b6-4c40-4ef3-8dd8-fcc1748306a3@f9941.json",
+        "size": 564,
+        "md5": "58107bed4cae2d4f24ed1736eaf01092",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/import/20/204a65b6-4c40-4ef3-8dd8-fcc1748306a3@f9941.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/import/4b/4bcd7f47-0e2f-49c5-9b72-3c79ebf282d5.json",
+        "size": 1839,
+        "md5": "5a5e5504e46cbbddcb4f8e6e2cdc8558",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/import/4b/4bcd7f47-0e2f-49c5-9b72-3c79ebf282d5.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/import/29/297377c4-39b6-4f5f-9316-729a7e47fe91@f9941.json",
+        "size": 552,
+        "md5": "e95323455330bda63b2f379fa8f6ce66",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/import/29/297377c4-39b6-4f5f-9316-729a7e47fe91@f9941.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/import/7b/7b8b571b-1dd4-4bb2-b627-77733e279bd4.json",
+        "size": 13115,
+        "md5": "6706a7ee2975f43d1a18d27cce4168e1",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/import/7b/7b8b571b-1dd4-4bb2-b627-77733e279bd4.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/import/8f/8f85e811-1864-46d7-a4fb-e03f026be39a@f9941.json",
+        "size": 562,
+        "md5": "f6b4c18cc3d1b538f27a18b4a948e8d9",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/import/8f/8f85e811-1864-46d7-a4fb-e03f026be39a@f9941.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/import/75/753cfefc-4556-45fb-9884-3a2c2c29b091.cconb",
+        "size": 1648,
+        "md5": "7c1c54b9c0bfc8b2affba709a77399d9",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/import/75/753cfefc-4556-45fb-9884-3a2c2c29b091.cconb",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/import/88/88b3c374-6b23-4ae3-928e-9f71f99e71fa.json",
+        "size": 94,
+        "md5": "7f967848067d895eac11018093835a80",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/import/88/88b3c374-6b23-4ae3-928e-9f71f99e71fa.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/import/98/98e686f0-3445-4868-934d-dd0890fe98be.cconb",
+        "size": 1472,
+        "md5": "5f664706b95d11726bdfa2ea6f786cc4",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/import/98/98e686f0-3445-4868-934d-dd0890fe98be.cconb",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/import/53/53ea0e19-9dea-4310-8912-c348e72d0694@f9941.json",
+        "size": 710,
+        "md5": "f377db5eb0ced145ae15bf330e39f324",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/import/53/53ea0e19-9dea-4310-8912-c348e72d0694@f9941.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/import/5e/5ef311a6-638c-404f-903b-0f102253289c.json",
+        "size": 25329,
+        "md5": "866ec4e355340f02389889a5fc71b979",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/import/5e/5ef311a6-638c-404f-903b-0f102253289c.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/import/08/085c2c75a.json",
+        "size": 3774,
+        "md5": "cdceae880206aae952fc2d70d59399a2",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/import/08/085c2c75a.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/import/08/08fd64668.json",
+        "size": 6298,
+        "md5": "d2cf6ac6a2cf35091eb2cd0c839ac3fa",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/import/08/08fd64668.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/import/06/06cd0244-0717-4909-b72d-7dcf4c2dc503.cconb",
+        "size": 2660,
+        "md5": "db4744d5d98e5a9f7f5cfd97934883ef",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/import/06/06cd0244-0717-4909-b72d-7dcf4c2dc503.cconb",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/import/06/0628fcd00.json",
+        "size": 2056,
+        "md5": "a3de648ae35d55f7eb52ba8709ceef91",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/import/06/0628fcd00.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/import/06/06d16da60.json",
+        "size": 318263,
+        "md5": "b2fcb257574aa372d6cc4fd2362cbdee",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/import/06/06d16da60.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/import/39/39c6f0bb-06f3-4c6b-987a-819079398e79.cconb",
+        "size": 1952,
+        "md5": "7421c86d5cdcd8c6f180ee928508b0c4",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/import/39/39c6f0bb-06f3-4c6b-987a-819079398e79.cconb",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/import/97/973b82d6-5856-49e8-9a8e-c364b825f469.json",
+        "size": 11150,
+        "md5": "c270335519b38f09e8b30ce8c9db29dd",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/import/97/973b82d6-5856-49e8-9a8e-c364b825f469.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/import/90/90082b2a-4521-43a5-8731-0e1f7979a9d4.json",
+        "size": 119,
+        "md5": "9c0fee95da07aa87e8f30ce99f43290c",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/import/90/90082b2a-4521-43a5-8731-0e1f7979a9d4.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/import/bf/bfae73fe-5af7-4d16-a17f-ef804e989624@f9941.json",
+        "size": 554,
+        "md5": "d12aeb7da5501538191ef1d918d12701",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/import/bf/bfae73fe-5af7-4d16-a17f-ef804e989624@f9941.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/import/d4/d450c599-8886-4abd-98a3-300983d7a311@f9941.json",
+        "size": 555,
+        "md5": "70940a4e32f74c89c3c03e4f02fa4a90",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/import/d4/d450c599-8886-4abd-98a3-300983d7a311@f9941.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/import/dd/ddbe33c7-ffc4-4112-8dea-947a6ce088bd.json",
+        "size": 120,
+        "md5": "11e2e8f853a8ed8c963ca207242705b0",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/import/dd/ddbe33c7-ffc4-4112-8dea-947a6ce088bd.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/import/b7/b731d3a6-e689-4e4f-ba8e-2b3d1fadbc8a.json",
+        "size": 122,
+        "md5": "d75fb28f4824b31ba0c296fbd24933ce",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/import/b7/b731d3a6-e689-4e4f-ba8e-2b3d1fadbc8a.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/import/c3/c3827eaf-0824-4f9c-a54b-e8034c5003ce.cconb",
+        "size": 2620,
+        "md5": "39489a5e34132351ee6ac9109425c6c0",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/import/c3/c3827eaf-0824-4f9c-a54b-e8034c5003ce.cconb",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/import/f0/f0812306-c048-414f-9934-83a4300f074a.json",
+        "size": 94,
+        "md5": "7f967848067d895eac11018093835a80",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/import/f0/f0812306-c048-414f-9934-83a4300f074a.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/import/e0/e0ec4dd8-9ed2-4de7-ab7e-9c7297e19a8a.json",
+        "size": 100,
+        "md5": "f768ea4af54cfc7d58521800d7cc4032",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/import/e0/e0ec4dd8-9ed2-4de7-ab7e-9c7297e19a8a.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/import/4a/4aab5d82-f4dc-473d-83b9-70b7e9a6b304.json",
+        "size": 121,
+        "md5": "a27445324796223a9cfe7f637527e218",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/import/4a/4aab5d82-f4dc-473d-83b9-70b7e9a6b304.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/GameRes/import/2e/2e5f88b3-880c-46d5-bef9-82afa68d7d89@f9941.json",
+        "size": 567,
+        "md5": "afdedff3825111fff6c3efd0fa308732",
+        "url": "https://cdn.wocute.com/web-mobile/assets/GameRes/import/2e/2e5f88b3-880c-46d5-bef9-82afa68d7d89@f9941.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/internal/config.json",
+        "size": 2616,
+        "md5": "9842171149fb0cb73a8330151683b28a",
+        "url": "https://cdn.wocute.com/web-mobile/assets/internal/config.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/internal/index.js",
+        "size": 615,
+        "md5": "5feef216a4e7772d5a63228a5a2c78ef",
+        "url": "https://cdn.wocute.com/web-mobile/assets/internal/index.js",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/internal/import/03/03df09f57.json",
+        "size": 356983,
+        "md5": "ac418b6b9a09a8a042da9a7e05073b13",
+        "url": "https://cdn.wocute.com/web-mobile/assets/internal/import/03/03df09f57.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/main/config.json",
+        "size": 1266,
+        "md5": "6944a0650a95f120040f7913c9e77372",
+        "url": "https://cdn.wocute.com/web-mobile/assets/main/config.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/main/index.js",
+        "size": 212257,
+        "md5": "a438f9858c430d5523117e8c8995641e",
+        "url": "https://cdn.wocute.com/web-mobile/assets/main/index.js",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/main/native/ee/eec58cfd-2b40-41f5-b0e3-a6025cbf943c.jpg",
+        "size": 73379,
+        "md5": "d06bef327ace3dd4eabac35a696281d2",
+        "url": "https://cdn.wocute.com/web-mobile/assets/main/native/ee/eec58cfd-2b40-41f5-b0e3-a6025cbf943c.jpg",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/main/native/c9/c9381184-55e1-4b41-9230-e4ecbf3627bb.png",
+        "size": 718,
+        "md5": "c6229ee9aedcd7c9f460cd1df99e40ba",
+        "url": "https://cdn.wocute.com/web-mobile/assets/main/native/c9/c9381184-55e1-4b41-9230-e4ecbf3627bb.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/main/native/7d/7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca.png",
+        "size": 82,
+        "md5": "cea68f0d7cba38440224f6f74531e2d8",
+        "url": "https://cdn.wocute.com/web-mobile/assets/main/native/7d/7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/main/native/d5/d5456362-1128-48f3-ac21-a50f60f7298c.png",
+        "size": 11442,
+        "md5": "e62ddfc415ef0193ec79b4f54bcdd471",
+        "url": "https://cdn.wocute.com/web-mobile/assets/main/native/d5/d5456362-1128-48f3-ac21-a50f60f7298c.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/main/native/b0/b0c767cb-83d9-4a66-81e9-a3e1e8de41b1.png",
+        "size": 606,
+        "md5": "f254f79b470282c759689f260b35c5e1",
+        "url": "https://cdn.wocute.com/web-mobile/assets/main/native/b0/b0c767cb-83d9-4a66-81e9-a3e1e8de41b1.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/main/native/41/4195320c-c4dc-4b01-9853-0f5a014f4618.png",
+        "size": 13978,
+        "md5": "60c4c2a8d093db9247198dfa82aa6e48",
+        "url": "https://cdn.wocute.com/web-mobile/assets/main/native/41/4195320c-c4dc-4b01-9853-0f5a014f4618.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/main/native/23/23346c8e-2853-4ed7-9a94-528ec94cfab4.png",
+        "size": 924,
+        "md5": "c358dd418a43dd33d12460402113dbb3",
+        "url": "https://cdn.wocute.com/web-mobile/assets/main/native/23/23346c8e-2853-4ed7-9a94-528ec94cfab4.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/main/native/25/256c081d-e2fb-43e4-ae90-2805fe8678d7.png",
+        "size": 9969,
+        "md5": "c7d3f3bf66e70b7fb77e72602dfbadc3",
+        "url": "https://cdn.wocute.com/web-mobile/assets/main/native/25/256c081d-e2fb-43e4-ae90-2805fe8678d7.png",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/main/import/0d/0d56cb1c3.json",
+        "size": 377,
+        "md5": "3f011765c63c3c8762dad6955c3a787a",
+        "url": "https://cdn.wocute.com/web-mobile/assets/main/import/0d/0d56cb1c3.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/main/import/0d/0d4b2084c.json",
+        "size": 10525,
+        "md5": "dd5e2a9b97c859b6c93e38ede7580a12",
+        "url": "https://cdn.wocute.com/web-mobile/assets/main/import/0d/0d4b2084c.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/main/import/fd/fd8ec536-a354-4a17-9c74-4f3883c378c8.json",
+        "size": 480,
+        "md5": "731f44a39ce9377ee6de8ba34edaf039",
+        "url": "https://cdn.wocute.com/web-mobile/assets/main/import/fd/fd8ec536-a354-4a17-9c74-4f3883c378c8.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/assets/main/import/01/01a36fc4e.json",
+        "size": 610,
+        "md5": "ffbb2b801d7e3df33e0b82b2537dddbf",
+        "url": "https://cdn.wocute.com/web-mobile/assets/main/import/01/01a36fc4e.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/cocos-js/bullet.wasm-90bf95e1.js",
+        "size": 152,
+        "md5": "8ca655c09332c18453f781158d97b7af",
+        "url": "https://cdn.wocute.com/web-mobile/cocos-js/bullet.wasm-90bf95e1.js",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/cocos-js/wait-for-ammo-instantiation.js",
+        "size": 147,
+        "md5": "1b4c9d2666d003b0938a075950e91a40",
+        "url": "https://cdn.wocute.com/web-mobile/cocos-js/wait-for-ammo-instantiation.js",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/cocos-js/_commonjsHelpers-364bf34e.js",
+        "size": 395,
+        "md5": "9773f923964382f7df58d0cd0c842be7",
+        "url": "https://cdn.wocute.com/web-mobile/cocos-js/_commonjsHelpers-364bf34e.js",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/cocos-js/cc.js",
+        "size": 1469314,
+        "md5": "381223b4d85f060d49f29b03db17fe30",
+        "url": "https://cdn.wocute.com/web-mobile/cocos-js/cc.js",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/cocos-js/bullet.cocos-db1ddef2.js",
+        "size": 765988,
+        "md5": "038a84a4219ddd4cd4a588b16ff60f94",
+        "url": "https://cdn.wocute.com/web-mobile/cocos-js/bullet.cocos-db1ddef2.js",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/cocos-js/instantiated-0fd1e7b2.js",
+        "size": 819228,
+        "md5": "8419a396dc0d383bd5268bb84d4dfdef",
+        "url": "https://cdn.wocute.com/web-mobile/cocos-js/instantiated-0fd1e7b2.js",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/cocos-js/assets/bullet.wasm-c98527b6.wasm",
+        "size": 418321,
+        "md5": "28c8e1512ef50278b2d6839bde2da71f",
+        "url": "https://cdn.wocute.com/web-mobile/cocos-js/assets/bullet.wasm-c98527b6.wasm",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/src/settings.json",
+        "size": 17304,
+        "md5": "d39787b20e171fdc5ff731202909a530",
+        "url": "https://cdn.wocute.com/web-mobile/src/settings.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/src/import-map.json",
+        "size": 117,
+        "md5": "7961d40d9a023e3890e0caedbe7b457b",
+        "url": "https://cdn.wocute.com/web-mobile/src/import-map.json",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/src/system.bundle.js",
+        "size": 12028,
+        "md5": "692e9d80d216b49ee02d6a2f17a36d8a",
+        "url": "https://cdn.wocute.com/web-mobile/src/system.bundle.js",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/src/polyfills.bundle.js",
+        "size": 14750,
+        "md5": "5adbfb0ae1eddd0a5af84c8a72e16cea",
+        "url": "https://cdn.wocute.com/web-mobile/src/polyfills.bundle.js",
+        "version": "1"
+    },
+    {
+        "name": "web-mobile/src/chunks/bundle.js",
+        "size": 693771,
+        "md5": "a553cc3bc974456ccf34b56723c1bfa7",
+        "url": "https://cdn.wocute.com/web-mobile/src/chunks/bundle.js",
+        "version": "1"
+    }
+]
